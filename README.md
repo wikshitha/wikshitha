@@ -1,20 +1,20 @@
-# Hi there, I'm [Your Name] 👋 
+# Hi there, I'm Wikshitha Umindu 👋
 
-![Profile Views](https://komarev.com/ghpg/[your-username]/[your-username])
+![Profile Views](https://komarev.com/ghpvc/?username=wikshithaumindu)
 
 ## 🎓 About Me
-- 🌟 [Your role/title] passionate about [your interests]
-- 🏢 Currently [working at/studying at] [organization]
-- 🌍 Based in [your location]
-- 📫 Reach me at: [your-email@domain.com]
+- 🌟 Software Engineer passionate about web development and open-source contributions
+- 🏢 Currently working at [Your Company]
+- 🌍 Based in Colombo, Sri Lanka
+- 📫 Reach me at: wikshitha@example.com
 
 ## 🚀 My GitHub Stats
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wikshithaumindu&show_icons=true&theme=radical)](https://github.com/wikshithaumindu)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/your-username)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wikshithaumindu&layout=compact&theme=radical)](https://github.com/wikshithaumindu)
 
 </div>
 
@@ -27,18 +27,18 @@
 
 ## 🌟 Featured Projects
 <div align="center">
-<a href="https://github.com/your-username/project-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&theme=radical" />
+<a href="https://github.com/wikshithaumindu/project-1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wikshithaumindu&repo=project-1&theme=radical" />
 </a>
-<a href="https://github.com/your-username/project-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=radical" />
+<a href="https://github.com/wikshithaumindu/project-2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wikshithaumindu&repo=project-2&theme=radical" />
 </a>
 </div>
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-username)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wikshithaumindu)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/wikshithaumindu)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://wikshithaumindu.com)
 
 ---
 <div align="center">
