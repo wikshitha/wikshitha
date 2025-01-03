@@ -1,6 +1,6 @@
 # Hi there, I'm Wikshitha Umindu 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=wikshithaumindu)
+![Profile Views](https://komarev.com/ghpvc/?username=wikshitha)
 
 ## 🎓 About Me
 - 🌟 Software Engineer passionate about web development and open-source contributions
