@@ -22,17 +22,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## 🌟 Featured Projects
-<div align="center">
-<a href="https://github.com/WikshithaUmindu/project-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wikshitha&repo=project-1&theme=radical" />
-</a>
-<a href="https://github.com/WikshithaUmindu/project-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wikshitha&repo=project-2&theme=radical" />
-</a>
-</div>
-
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wikshithaumindu)
 
