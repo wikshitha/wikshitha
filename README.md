@@ -17,18 +17,13 @@
 
 ### 🚀 About Me
 
-```javascript
-const wikshitha = {
-    location: "Polonnaruwa, Sri Lanka 🇱🇰",
-    education: "Eastern University of Sri Lanka",
-    role: "Software Engineering Student",
-    specialization: "Full-Stack Web Development",
-    stack: ["MERN", "JavaScript", "React", "Node.js"],
-    currentFocus: "Building scalable web applications",
-    interests: ["Open Source", "Web3", "UI/UX"],
-    lifePhilosophy: "Code. Learn. Build. Repeat. ♾️"
-};
-```
+🎓 **Software Engineering Student** at Eastern University of Sri Lanka  
+📍 Based in **Polonnaruwa, Sri Lanka**  
+💻 Specializing in **Full-Stack Web Development**  
+🔨 Currently focused on **building scalable web applications**  
+🌱 Learning **Python, Anguler, Express & SQL**  
+💡 Interested in **Open Source, AI/ML & UI/UX Design**  
+🎯 Life Philosophy: **"Code. Learn. Build. Repeat."** ♾️
 
 <br clear="right"/>
 
@@ -38,66 +33,58 @@ const wikshitha = {
 
 <div align="center">
 
-#### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</div>
+
+---
+
+### ⚡ Quick Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wikshitha&theme=tokyonight" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wikshitha&theme=tokyonight" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wikshitha&theme=tokyonight" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wikshitha&theme=tokyonight" alt="Stats"/>
 
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+### 📈 Coding Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wikshitha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wikshitha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF"/>
-</div>
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wikshitha&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=8B5CF6&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wikshitha&theme=tokyonight" alt="Profile Summary"/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wikshitha&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=8B5CF6&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🎨 This Week's Development Focus
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wikshitha&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-</div>
 
----
-
-### 🎯 Current Goals
-
-```yaml
-2025_Objectives:
-  - Master: "Advanced React Patterns & Performance Optimization"
-  - Build: "3+ Production-Ready Full-Stack Projects"
-  - Contribute: "To 10+ Open Source Projects"
-  - Learn: "TypeScript, Next.js, GraphQL"
-  - Achieve: "100+ GitHub Contributions"
+```text
+JavaScript   ████████████░░░░░░░░░   60%
+React        ███████░░░░░░░░░░░░░░   35%
+CSS          ██░░░░░░░░░░░░░░░░░░░   10%
+Node.js      ████░░░░░░░░░░░░░░░░░   20%
+MongoDB      ███░░░░░░░░░░░░░░░░░░   15%
 ```
+
+</div>
 
 ---
 
@@ -118,16 +105,6 @@ const wikshitha = {
 ### 💭 Quote of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wikshitha/wikshitha/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wikshitha/wikshitha/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wikshitha/wikshitha/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
