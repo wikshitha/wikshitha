@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Wikshitha Umindu
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer;Full-Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer;Full-Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wikshitha&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile views" />
