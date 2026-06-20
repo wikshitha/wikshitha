@@ -22,7 +22,7 @@
 💻 Specializing in **Full-Stack Web Development**  
 🔨 Currently focused on **building scalable web applications**  
 🌱 Learning **Python, Anguler, Express & SQL**  
-💡 Interested in **Open Source, AI/ML & UI/UX Design**  
+💡 Interested in **AI/ML & UI/UX Design**  
 🎯 Life Philosophy: **"Code. Learn. Build. Repeat."** ♾️
 
 <br clear="right"/>
